@@ -22,6 +22,24 @@
                 gen":"Medellin","destino":"Cartagena","duracion":3.5,"precio":295000.0}]
                     </div>
             </div>
-        </l>
+        </li>
+        <li>
+            <div>
+                    Para este programa se debe hacer todo el proceso de desarrollo, de la siguiente forma:
+                        <ol>
+                    <li> Elaborar el diagrama de clases de análisis.
+<li> Elaborar el diagrama de secuencia de análisis.
+<li> Elaborar el diagrama de clases de diseño.
+<li> Elaborar la especificación para el método más complejo.
+<li> Escribir el código, el cual debe quedar en GitHub. Recuerde incluir los comentarios en cada clase
+y en los métodos más importantes de las clases de control.
+<li> Diseñar y escribir dos pruebas unitarias para el método más complejo (el mismo para el cual se
+hizo la especificación). El código de estas pruebas debe quedar en GitHub.
+<li> Hacer pruebas del programa completo. Se debe hacer tres pruebas: una con un origen y destino
+existentes, una ruta directa; otra con un origen y destino existentes, con una escala y la última con
+el origen o el destino no existentes. Para hacer estar pruebas se debe contar con por lo menos 10
+rutas en el archivo JSON. Este archivo también debe quedar en GitHub.
+                </ol>
+            </div>
         </li>
     </ul>
