@@ -17,8 +17,10 @@
             <div>
                 La información de las rutas estará en un archivo como un arreglo JSON 🦄. Cada ruta tiene el origen, el
                 destino, la duración y el precio. Por ejemplo, un archivo con dos rutas puede ser:
-                <div class="bold">[{"origen":"Manizales","destino":"Medellin","duracion":1.5,"precio":95000.0},{"ori
-                gen":"Medellin","destino":"Cartagena","duracion":3.5,"precio":295000.0}]</div>
+                <div>
+                        #[{"origen":"Manizales","destino":"Medellin","duracion":1.5,"precio":95000.0},{"ori
+                #gen":"Medellin","destino":"Cartagena","duracion":3.5,"precio":295000.0}]
+                    </div>
             </div>
         </l>
         </li>
